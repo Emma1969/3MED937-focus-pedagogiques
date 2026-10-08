@@ -1,7 +1,7 @@
 {
   "title": "Repères pédagogiques pour planifier au collégial",
   "course": "3MED937",
-  "count": 14,
+  "count": 16,
   "files": [
     "01-triangle-pedagogique.html",
     "02-niveaux-decision.html",
@@ -16,6 +16,8 @@
     "11-etayage.html",
     "12-evaluation-apprentissage.html",
     "13-praticien-reflexif.html",
-    "14-raisonnement-pedagogique.html"
+    "14-raisonnement-pedagogique.html",
+    "15-intention-objectifs.html",
+    "16-questionnement.html"
   ]
 }
